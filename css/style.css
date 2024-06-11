@@ -1,0 +1,38 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    
+}
+{
+grau=linear-gradient(120deg, #000);
+heigth: 100%;
+no repeat
+display: grid;
+place-items:center; 
+
+}
+*relogio{
+    background: transparent box-shadow;
+    width: 90%;
+    padding: 3%;
+    display-flex;
+    box-shadow: 0; 
+
+}
+
+*relogio div{
+    border: 2px solid color red;
+    width:80%;
+    border-radius: 7px;
+    letter-spacing: 3px;
+    background-color: 100%; color:#000;
+    box-shadow: 5px 5px 15px;
+    margin:2%;
+    padding:3%;
+    flex-direction: column;
+    width: 60%;
+
+    }
+
+
+
